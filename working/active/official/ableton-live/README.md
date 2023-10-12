@@ -53,7 +53,7 @@ Now just follow these simple steps:
 15. Set up your audio inputs as you would on Windows.
 
 
-Just like that, you're done! Ableton should be all set up,and should run smoothly. But in case it doesn't...
+Just like that, you're done! Ableton should be all set up, and should run smoothly. But in case it doesn't...
 
 ## Troubleshooting
 ### Audio freezes and then comes back after a few seconds (buffer XRUNs)
